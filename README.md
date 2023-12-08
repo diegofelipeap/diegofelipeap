@@ -14,7 +14,7 @@ Este é o espaço onde armazeno e exponho minha criatividade, imaginação e des
 <a href="https://www.instagram.com/felipeapdiego" target="#">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="www.linkedin.com/in/pereira-diego-dev">
+<a href="https://www.linkedin.com/in/pereira-diego-dev" target="#">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
