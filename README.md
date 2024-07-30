@@ -12,10 +12,10 @@ Este é o espaço onde armazeno e exponho minha criatividade, imaginação e des
 
 <p>
 <a href="https://www.instagram.com/felipeapdiego" target="#">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pereira-diego-dev" target="#">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" />
 </a>
 </p>
 <br />
